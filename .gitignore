@@ -132,3 +132,7 @@ dmypy.json
 *.png
 *.ipynb
 *.xlsx
+*.DS_Store
+*.ini
+*.png
+*.jpg
