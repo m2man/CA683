@@ -1,0 +1,17 @@
+Install payment:
+-   NUM INSTALL VERSION is not useful
+-   NUM_INSTALMENT_NUMBER : count is good --> how many time user repay Install
+-   DAYS_INSTALMENT: is not useful --> just supposed day that user need to payment
+-   DAYS_ENTRY_PAYMENT: actual moment user repay --> can take mean, or subtract DAYS_INSTALMENT --> take mean
+-   AMT_INSTALMENT: is not useful --> amount money user supposed to pay back
+-   AMT_PAYMENT: actual money user paid --> can take mean or subtract AMT_INSTALMENT --> take mean
+
+Previous:
+-   AMT_APPLICATION: amount money user require
+-   AMT_CREDIT: amount money applicant get from previous application --> can subtract amt application and calculate mean
+-   NAME_CONTRACT_STATUS: calulate portion of each status in entire
+
+After mergered
+- 16 category ft
+- 130 numerical ft
+- 49 ft missing > 40% (47 related to accomodation)
