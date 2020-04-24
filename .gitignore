@@ -130,7 +130,6 @@ dmypy.json
 
 *.csv
 *.png
-*.ipynb
 *.xlsx
 *.DS_Store
 *.ini
